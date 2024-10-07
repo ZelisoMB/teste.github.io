@@ -807,21 +807,21 @@
 
         }
     </style>
-</head>
-
-<body>
-    <div class="container-header">
-        <header class="title col-lg-8 col-sm-8 col-12">
-            único site de cursos livres com certificado emitido por uma faculdade credenciada no mec. portaria ead nº
-            499 de 08/07/2021
-        </header>
-    </div>
-    <main>
-        <div class="home">
-            <div class="container-menu-mobile col-sm-8 col-12">
-                <div class="cgo-img">
-                    <a href="#"><img src="/img/Logo CGO.jpg" alt="CGO"></a>
-                </div>
+    </head>
+    
+    <body>
+        <div class="container-header">
+            <header class="title col-lg-8 col-sm-8 col-12">
+                único site de cursos livres com certificado emitido por uma faculdade credenciada no mec. portaria ead nº
+                499 de 08/07/2021
+            </header>
+        </div>
+        <main>
+            <div class="home">
+                <div class="container-menu-mobile col-sm-8 col-12">
+                    <div class="cgo-img">
+                        <a href="#"><img src="/img/Logo CGO.jpg" alt="CGO"></a>
+                    </div>
 
                 <div class="d-flex align-items-center">
                     <div>
