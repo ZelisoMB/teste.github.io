@@ -434,7 +434,7 @@
             justify-content: end;
             padding: 0 1rem 1rem 1rem;
             background: linear-gradient(180deg, rgba(31, 31, 31, 0.00) 3.99%, rgba(31, 31, 31, 0.70) 31.83%, #1F1F1F 56.31%),
-                url('/img/Teacher working on laptop 1.png');   
+                url('img/Teacher working on laptop 1.png');   
         }
 
         .box-card {
@@ -820,7 +820,7 @@
             <div class="home">
                 <div class="container-menu-mobile col-sm-8 col-12">
                     <div class="cgo-img">
-                        <a href="#"><img src="/img/Logo CGO.jpg" alt="CGO"></a>
+                        <a href="#"><img src="img/Logo CGO.jpg" alt="CGO"></a>
                     </div>
 
                 <div class="d-flex align-items-center">
@@ -899,7 +899,7 @@
 
             </div>
             <div class="menu-itens col-lg-8 col-sm-8 col-12">
-                <div class="cgo-img"><a href="#"><img src="/img/Logo CGO.jpg" alt="CGO"></a>
+                <div class="cgo-img"><a href="#"><img src="img/Logo CGO.jpg" alt="CGO"></a>
                 </div>
                 <a href="#" class="menu-itens-a">INÍCIO</a>
                 <a href="#" class="menu-itens-a">CURSOS</a>
@@ -941,10 +941,10 @@
             </div>
         </div>
         <div class="main-banner-mobile">
-            <img class="main-banner-mobile-px" src="/img/Banner Portal Mundo CGO Mobile.png" alt="">
+            <img class="main-banner-mobile-px" src="img/Banner Portal Mundo CGO Mobile.png" alt="">
         </div>
         <div class="main-banner">
-            <img class="main-banner-px" src="/img/Banner Portal Mundo CGO.png" alt="">
+            <img class="main-banner-px" src="img/Banner Portal Mundo CGO.png" alt="">
         </div>
         <div class="" style="padding: 0 10px;">
             <div class="container-categoria">
@@ -1383,7 +1383,7 @@
     </main>
     <footer>
         <img style="width: 100%;"
-            src="/img/FireShot Capture 004 - Curso Gratuito de Barbeiro - Cursos Grátis Online_ - www.cursosgratisonline.com.br 1.png"
+            src="img/FireShot Capture 004 - Curso Gratuito de Barbeiro - Cursos Grátis Online_ - www.cursosgratisonline.com.br 1.png"
             alt="">
     </footer>
 </body>
